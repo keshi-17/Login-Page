@@ -1,0 +1,311 @@
+@media screen and (min-width : 20rem) and (max-width: 48rem){
+  body{
+    background-color:#654E92;
+}
+.img{
+  width: 12.5rem;
+}
+.container {
+    padding-top: 6.25rem;
+    width: 25rem;
+    margin: auto;
+    text-align: center;
+  }
+  
+  form {
+    border: 0.188rem solid #f1f1f1;
+    padding: 1.25rem;
+  }
+  
+  h1 {
+    font-size: 1.875rem;
+    margin-bottom: 1.25rem;
+    color: white;
+  }
+  
+  input[type=email], input[type=password] {
+    width: 100%;
+    padding: 0.75rem 0rem;
+  }
+  .sub{
+      position: relative;
+      left: -8.75rem;
+      color:white;
+  }
+  .log-btn{
+    position: relative;
+    top: 0.625rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.313rem;
+    padding-bottom: 0.313rem;
+  }
+  .img-div{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #7149C6;
+    z-index: 9999;
+    display: none;
+  }
+  
+  .loader {
+    margin: 0 auto;
+    margin-top: 20%;
+    border: 0.5rem solid #7149C6;
+    border-top: 0.5rem solid #F0F0F0;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+
+}
+
+@media  screen and (min-width: 80rem){
+  body{
+    background-color:#654E92;
+}
+.img{
+  width: 12.5rem;
+}
+.container {
+    padding-top: 12.5rem;
+    width: 25rem;
+    margin: auto;
+    text-align: center;
+  }
+  
+  form {
+    border: 0.188rem solid #f1f1f1;
+    padding: 1.25rem;
+  }
+  
+  h1 {
+    font-size: 1.875rem;
+    margin-bottom: 1.25rem;
+    color: white;
+  }
+  
+  input[type=email], input[type=password] {
+    width: 100%;
+    padding: 0.75rem 0rem;
+  }
+  .sub{
+      position: relative;
+      left: -8.75rem;
+      color:white;
+  }
+  .log-btn{
+    position: relative;
+    top: 0.625rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.313rem;
+    padding-bottom: 0.313rem;
+  }
+  .img-div{
+    position: relative;
+    top: 9.375rem;
+    left: 40.625rem;
+  }
+  .loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #7149C6;
+    z-index: 9999;
+    display: none;
+  }
+  
+  .loader {
+    margin: 0 auto;
+    margin-top: 20%;
+    border: 0.5rem solid #7149C6;
+    border-top: 0.5rem solid #F0F0F0;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+
+}
+
+@media screen and (min-width:64.063rem) and (max-width: 80rem){
+  body{
+    background-color:#654E92;
+}
+.img{
+  width: 12.5rem;
+}
+.container {
+    padding-top: 12.5rem;
+    width: 25rem;
+    margin: auto;
+    text-align: center;
+  }
+  
+  form {
+    border: 0.188rem solid #f1f1f1;
+    padding: 1.25rem;
+  }
+  
+  h1 {
+    font-size: 1.875rem;
+    margin-bottom: 1.25rem;
+    color: white;
+  }
+  
+  input[type=email], input[type=password] {
+    width: 100%;
+    padding: 0.75rem 0rem;
+  }
+  .sub{
+      position: relative;
+      left: -8.75rem;
+      color:white;
+  }
+  .log-btn{
+    position: relative;
+    top: 0.625rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 0.313rem;
+    padding-bottom: 0.313rem;
+  }
+  .img-div{
+    position: relative;
+    top: 9.375rem;
+    left: 40.625rem;
+  }
+  .loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #7149C6;
+    z-index: 9999;
+    display: none;
+  }
+  
+  .loader {
+    margin: 0 auto;
+    margin-top: 20%;
+    border: 0.5rem solid #7149C6;
+    border-top: 0.5rem solid #F0F0F0;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+
+}
+
+  @media screen and  (min-width: 48rem) and (max-width: 64rem) {
+    body{
+      background-color:#654E92;
+  }
+  .img{
+    width: 9rem;
+  }
+  .container {
+      padding-top: 4rem;
+      width: 15rem;
+      margin: auto;
+      text-align: center;
+    }
+    
+    form {
+      border: 0.188rem solid #f1f1f1;
+      padding: 1.25rem;
+    }
+    
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1.25rem;
+      color: white;
+    }
+    
+    input[type=email], input[type=password] {
+      width: 100%;
+      padding: 0.75rem 0rem;
+      font-size: 1.125rem;
+    }
+    .sub{
+        position: relative;
+        left: -3.75rem;
+        color:white;
+        font-size: 1.125rem;
+    }
+    .log-btn{
+      position: relative;
+      top: 0.625rem;
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      padding-top: 0.313rem;
+      padding-bottom: 0.313rem;
+    }
+    .img-div{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .loader-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #7149C6;
+      z-index: 9999;
+      display: none;
+    }
+    
+    .loader {
+      margin: 0 auto;
+      margin-top: 20%;
+      border: 0.5rem solid #7149C6;
+      border-top: 0.5rem solid #F0F0F0;
+      border-radius: 50%;
+      width: 4rem;
+      height: 4rem;
+      animation: spin 2s linear infinite;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  
+
+  }
+  
